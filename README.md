@@ -55,7 +55,3 @@ This layered structure follows the **Single Responsibility Principle (SRP)** and
 - Multi-layered communication (UI → BLL → DAL → Model)  
 - Exception and validation handling  
 
----
-
-## 📂 Folder Structure
-
